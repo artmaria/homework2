@@ -1,6 +1,6 @@
 {
   "name": "hws2",
-  "homepage": "https://artmaria.github.io/homework2",
+  "homepage": "https://artmaria.github.io/homework2/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
